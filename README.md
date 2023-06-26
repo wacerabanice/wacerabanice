@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wacerabanice
-- 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning Python 
-- 📫 Reach me on email
+- 👀 Towards Full Stack Dev
+
 
 <!---
 wacerabanice/wacerabanice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
