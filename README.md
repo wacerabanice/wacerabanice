@@ -17,7 +17,7 @@
 - **Other Tools:** Notion, Git, GitHub, VS Code, Canva
 
 - ## 🔧 Projects I'm Working On
-- 📈 **Loan Readiness & Repayment Tracker** – A tool for assessing borrower qualification and tracking loan performance    
+- 📈 **Loan Readiness & Repayment Tracker** – A tool for tracking loan performance    
 - 📊 **Financial Dashboard Templates** – Automating reports using Excel, SQL, and Power BI  
 - 🏠 **Land Ownership Tracker** – Personal finance app to help users track land purchase milestones
 - 🌐 **Personal Websites** - Working on different Personal Websites to polish my frontend skills
