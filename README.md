@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wacerabanice
-- 👀 Towards Full Stack Dev
+- 👀 Striving towards Full Stack Dev
 - 🎯 **Finance | Management Reporting | Credit Risk Analysis | Financial Systems | Data & Tech**
 
 - Welcome to my GitHub! I'm a finance and analytics professional specializing in management reporting and credit risk analysis, with a strong command of data-driven tools and technologies. I have a keen interest in integrating technology to streamline reporting, automate processes, and enhance risk evaluation frameworks and I am committed to driving value at the intersection of finance, analytics, and innovation. 
