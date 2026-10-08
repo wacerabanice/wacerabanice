@@ -1,16 +1,13 @@
-- 👋 Hi, welcome to my Dev space
-- 🔐 Passionate about secure software development, fintech platforms, and building resilient applications.
-- 🎯 **Aspiring Cybersecurty (Fintech Application Security Engineer) 
-- 🎯 **Finance & Credit Risk Analysis| Financial Digital Products @Enchepata | Management Reporting | Credit-Tech Strategist | Web&App Dev | Pursuing Cybersecurity**
+- 👋 Hi, welcome to my Space !!!
+- 🎯 Finance Professional | Financial Planning & Analytics | EPM Solutions & Performance Management
 
-- Welcome to my GitHub! I'm a finance and analytics professional specializing in management reporting and credit risk analysis, with a strong command of data-driven tools and technologies. I have a keen interest in integrating technology to streamline reporting, automate processes, and enhance risk evaluation frameworks and I am committed to driving value at the intersection of finance, analytics, and innovation. 
+- Welcome to my GitHub! I work at the intersection of Finance, Data, Planning and Technology — helping turn financial information and business requirements into better reporting, planning and decision-support solutions.
+My background is in finance, management reporting, financial analysis, budgeting, forecasting, reconciliations and performance management, with a growing focus on how technology can transform the way organisations plan, analyse and manage performance.
 
 ## 🚀 What I Do
 - 📊 Create dynamic **management reports** and **financial dashboards** that support executive decision-making
-- 📊 **Data Privacy & Risk Dashboards**  - I build dashboards for financial data risk profiling, anonymization, and compliance monitoring using Excel, Notion, Python, and JavaScript — tailored for SMEs and digital lenders.
-- 💳 **Build & Assess Credit-Driven Systems** - With a strong foundation in credit analysis and financial systems, I bridge the gap between risk assessment and secure technical implementation. I design tools and processes that ensure data protection, compliance (e.g. PCI DSS, GDPR), and trust in lending platforms.
-- 🛠️ Build tools that bridge the gap between **finance** and **technology**, using code to simplify complexity at -->@Enchepata
-
+- 🛠️ Build tools that bridge the gap between **finance** and **technology**, simplifying complexity at -->@Enchepata
+- My long-term focus is: Finance → Financial Planning & Analytics → EPM Solutions → EPM Consulting → EPM Solutions Architecture
 
 ## 🧰 Tech Stack & Tools
 - **Languages & Query Tools:** Python, SQL, HTML/CSS 
@@ -18,27 +15,67 @@
 - **Financial Systems:** Core Banking Systems, SAP  
 - **Other Tools:** Notion, Git, GitHub, VS Code, Canva
 
+**🧩 My Finance + Technology Stack**
+**Finance & Planning**:
+Forecasting 
+Variance Analysis 
+Profitability Analysis 
+Financial Modelling 
+Management Reporting 
+
+**Data & Analytics**:
+SQL | Power BI | Power Query | Excel | Data Analysis | Data Transformation | Data Visualization
+
+**Process & Solution Design**:
+Business Requirements 
+Process Mapping 
+Solution Design 
+Data Flows 
+Systems Thinking 
+Process Improvement 
+Automation
+
 - ## 🔧 Projects I'm Working On
 - 📈 **Loan Readiness & Repayment Tracker** – A tool for tracking loan performance and credit rating    
 - 📊 **Financial Dashboard Templates** – Automating reports using Excel and Power BI - SME Cashflows, Business purchases etc  
-- 🏠 **Land Ownership Tracker** – Personal finance app to help users track land purchase milestones
 - 🌐 **Personal Websites** - Working on different Personal Websites to polish my frontend skills- checkout enchepata.netlify.app
+- 📊 **Finance Performance Dashboard** - Using Power BI | Management Reporting
 
 
 ## 🌱 Currently Learning
-- JavaScript and Node.js for backend development  
-- Cybersecurity - Fintech-Specific Security Compliance: PCI DSS, SOC 2, PSD2  
-- Penetration Testing with Kali Linux  
-- Building a secure fintech API with Node.js & Express  
-- AppSec automation with GitHub Actions
+I'm currently developing deeper capability in:
+Enterprise Performance Management
+Financial planning systems
+Anaplan
+FP&A transformation
+Planning model design
+EPM implementation methodology
+Data and system integration
+Financial modelling
+Solution architecture
+Finance process transformation
 
+My approach is deliberately practical:
 
+**Learn → Build → Test → Document → Explain**
+
+🎓  How I Use This Space
+This repository is my practical learning and portfolio space.
+
+Rather than simply collecting certificates, I use projects to demonstrate that I can:
+
+- Understand a finance problem
+- Translate it into business requirements
+- Analyse the underlying data
+- Design a solution
+- Build a working model or analytical output
+- Document the approach
+- Explain the business value
 
 ## 🌟 Career Goals
 
-- 🧪 Contribute to secure fintech ecosystems  
-- 🎓 Mentor upcoming African women in cybersecurity  
-- 🌍 Speak at international security/fintech conferences
+- 🧪 I want to help organisations design better ways to plan, manage performance and make financial decisions 
+- 🌍Be a speaker and ultimately lead international conferences on EPM Solution Architecture 
 
   ---
 
